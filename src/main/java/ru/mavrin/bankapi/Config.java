@@ -8,5 +8,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @ComponentScan(basePackages = "ru.mavrin.bankapi")
 @EnableJpaRepositories(basePackages = "ru.mavrin.bankapi")
 @EntityScan(basePackages = "ru.mavrin.bankapi")
+// тут тоже надо было что-то сделать
 public class Config {
 }
