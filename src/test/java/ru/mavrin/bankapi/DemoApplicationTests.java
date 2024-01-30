@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class DemoApplicationTests {
-//Вот есть у нас ветка master
+//Вот есть у нас ветка dev
 	@Test
 	void contextLoads() {
 	}
